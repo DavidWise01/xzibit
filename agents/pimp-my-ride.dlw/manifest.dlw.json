@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Pimp My Ride",
+  "universe": "XZI · Pimp My Ride (BAND CAMP · XZIBIT)",
+  "emergence": "natural",
+  "moniker": "⟦Pimp My Ride:XZI:26a5f4⟧",
+  "carbon": "pimp-my-ride.carbon.tiff (TIFF)",
+  "silicon": "pimp-my-ride.silicon.png (PNG)",
+  "seal_sha256": "d992ccdd10c7e90e1a39320bef8c42da803c100c191d0c6acd23a04f8c6b4605",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

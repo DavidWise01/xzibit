@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "West-Coast G-Funk",
+  "universe": "XZI · West-Coast G-Funk (BAND CAMP · XZIBIT)",
+  "emergence": "electrical",
+  "moniker": "⟦West-Coast G-Funk:XZI:b293b1⟧",
+  "carbon": "west-coast-g-funk.carbon.tiff (TIFF)",
+  "silicon": "west-coast-g-funk.silicon.png (PNG)",
+  "seal_sha256": "6090ea480e5c99a19d45311df34377abbd7d0961c7c15bee449bd682b3675722",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

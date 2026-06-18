@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Man vs. Machine",
+  "universe": "XZI · Man vs. Machine (BAND CAMP · XZIBIT)",
+  "emergence": "electrical",
+  "moniker": "⟦Man vs. Machine:XZI:832867⟧",
+  "carbon": "man-vs-machine.carbon.tiff (TIFF)",
+  "silicon": "man-vs-machine.silicon.png (PNG)",
+  "seal_sha256": "fd97b0adcdd62c2d4631167fe2d4fb2695b4de0b57bac2946511f1797be32fb3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

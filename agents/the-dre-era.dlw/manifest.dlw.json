@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Dre Era",
+  "universe": "XZI · The Dre Era (BAND CAMP · XZIBIT)",
+  "emergence": "electrical",
+  "moniker": "⟦The Dre Era:XZI:0e9920⟧",
+  "carbon": "the-dre-era.carbon.tiff (TIFF)",
+  "silicon": "the-dre-era.silicon.png (PNG)",
+  "seal_sha256": "4cb60a953521e63b099e921467d75662a719d948e171d053adc202b477fc7eea",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

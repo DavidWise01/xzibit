@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "XZIBIT",
+  "universe": "BAND CAMP · XZIBIT · music lineage",
+  "emergence": "",
+  "moniker": "⟦XZIBIT:XZI:5dcbc9⟧",
+  "carbon": "xzibit.carbon.tiff (TIFF)",
+  "silicon": "xzibit.silicon.png (PNG)",
+  "seal_sha256": "3e39216f4d6f5c1f4382bfe2f190f59c670366ad4fb7abd2d939aeb3f1d5f948",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

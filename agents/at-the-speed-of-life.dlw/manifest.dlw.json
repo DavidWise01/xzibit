@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "At the Speed of Life",
+  "universe": "XZI · At the Speed of Life (BAND CAMP · XZIBIT)",
+  "emergence": "electrical",
+  "moniker": "⟦At the Speed of Life:XZI:e8b047⟧",
+  "carbon": "at-the-speed-of-life.carbon.tiff (TIFF)",
+  "silicon": "at-the-speed-of-life.silicon.png (PNG)",
+  "seal_sha256": "f4b580950bc37d303ee428c33e6e5894454b781a4fd57c35f3ce8c117806144b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

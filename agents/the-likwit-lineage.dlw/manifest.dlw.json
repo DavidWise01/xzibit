@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Likwit Lineage",
+  "universe": "XZI · The Likwit Lineage (BAND CAMP · XZIBIT)",
+  "emergence": "natural",
+  "moniker": "⟦The Likwit Lineage:XZI:4d86ec⟧",
+  "carbon": "the-likwit-lineage.carbon.tiff (TIFF)",
+  "silicon": "the-likwit-lineage.silicon.png (PNG)",
+  "seal_sha256": "9bf4b480c804d1c8e4d523cd534ac4b88c0a539611a7fcc58157ae42bba3504e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
